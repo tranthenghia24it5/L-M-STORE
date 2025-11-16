@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <!-- Header cố định -->
+  <!-- Header cố định @@@@-->
   <header>
     <div class="logo">Lâm Store</div>
     <div class="search-bar">
